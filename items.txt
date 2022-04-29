@@ -1,0 +1,10 @@
+Hyundai Accent;;14000
+Hyundai Avante;;30000
+Hyundai tuscan;;20000
+Mazda mazda3;;5000
+Mazda mazda6;;10000
+Mazda miata;;50000
+Mercedes C-class;;40000
+Mercedes G-class;;130000
+Mercedes Maybach;;600000
+Mercedes S-class;;100000
